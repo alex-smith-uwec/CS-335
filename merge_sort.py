@@ -30,14 +30,14 @@ def merge(left, right):
     return output
 
 
-def main():
-    unsorted = [99, 0, 5, 20, 123, 0, -1, 72, 21, 22, 13, 8, 7, 67, 29, 1, 2, 4]
-    sorted = merge_sort(unsorted)
-    print(sorted)
+# def main():
+#     unsorted = [99, 0, 5, 20, 123, 0, -1, 72, 21, 22, 13, 8, 7, 67, 29, 1, 2, 4]
+#     sorted = merge_sort(unsorted)
+#     print(sorted)
 
-    unsorted = [3, 9, 2, 1]
-    sorted = merge_sort(unsorted)
-    print(sorted)
+#     unsorted = [3, 9, 2, 1]
+#     sorted = merge_sort(unsorted)
+#     print(sorted)
 
 
-main()
+# main()
